@@ -10,7 +10,7 @@ Multichar_Symbols
 
 !Define root lexicon
 LEXICON Root
-  Nouns ; ! No input, no output
+  Noun ; ! No input, no output
 
 !Define noun lexicon
 LEXICON Noun
