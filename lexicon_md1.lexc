@@ -14,12 +14,12 @@ LEXICON Root
 
 !Define noun lexicon
 LEXICON Nouns
-  meiten N5dekl ;
-  kurp N3dekl ;
-  tirg N3dekl ;
-  vid N3dekl ;
-  nakt N6dekl ;
-  valsts N6dekl ;
+meiten N5dekl ;
+kurp N3dekl ;
+tirg N3dekl ;
+vid N3dekl ;
+nakt N6dekl ;
+valsts N6dekl ;
 
 ! Define 3rd declension paradigm
 LEXICON N3dekl
