@@ -14,10 +14,10 @@ LEXICON Root
 
 !Define noun lexicon
 LEXICON Noun
-meiten N5dekl;
-kurp N5dekl;
 tirg N3dekl;
 vid N3dekl;
+meiten N5dekl;
+kurp N5dekl;
 nakt N6dekl;
 valsts N6dekl;
 
