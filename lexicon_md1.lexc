@@ -15,6 +15,8 @@ LEXICON Root
 !Define noun lexicon
 LEXICON Nouns
   meiten N5dekl ;
+  med N3dekl ;
+  nakt N6dekl ;
 
 ! Define 5th declension paradigm
 LEXICON N5dekl
