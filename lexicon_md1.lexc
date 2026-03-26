@@ -25,8 +25,8 @@ LEXICON N3dekl
 +N+Sg+Nom:^us # ;
 +N+Sg+Gen:^us # ;
 +N+Sg+Dat:^um # ;
-+N+Sg+Acc:^u # ;
-+N+Sg+Loc:^ū # ;
++N+Sg+Acc:^u# ;
++N+Sg+Loc:^ū# ;
 +N+Pl+Nom:^i # ;
 +N+Pl+Gen:^u # ;
 +N+Pl+Dat:^iem # ;
