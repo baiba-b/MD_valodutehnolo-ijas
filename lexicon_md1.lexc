@@ -39,7 +39,7 @@ LEXICON N3dekl
 LEXICON N5dekl
 +N+Sg+Nom:^e # ;
 +N+Sg+Gen:^es # ;
-+N+Sg+Dat:M^ei # ;
++N+Sg+Dat:M^ei  # ;
 +N+Sg+Acc:^i # ;
 +N+Sg+Loc:^ē # ;
 +N+Pl+Nom:^es # ;
