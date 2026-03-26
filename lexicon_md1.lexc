@@ -13,7 +13,7 @@ LEXICON Root
   Nouns ; ! No input, no output
 
 !Define noun lexicon
-LEXICON Noun
+LEXICON Nouns
 
 tirg N3dekl;
 vid N3dekl;
