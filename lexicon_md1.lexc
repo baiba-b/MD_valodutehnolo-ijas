@@ -37,7 +37,7 @@ LEXICON N6dekl
 +N+Sg+Gen:^s # ;
 +N+Sg+Dat:^ij # ;
 +N+Sg+Acc:^i # ;
-+N+Sg+Loc:^i # ;
++N+Sg+Loc:^ī # ;
 +N+Pl+Nom:^is  # ;
 +N+Pl+Gen:^u  # ;
 +N+Pl+Dat:^īm # ;
