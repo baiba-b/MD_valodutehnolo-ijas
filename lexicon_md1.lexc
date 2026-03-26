@@ -13,6 +13,7 @@ LEXICON Root
   Nouns ; 
 
 LEXICON Nouns
+ledus N3dekl;
 tirg N3dekl;
 vid N3dekl;
 bend N5dekl;
@@ -21,6 +22,7 @@ balamūt N5dekl;
 kurp N5dekl;
 nakt N6dekl;
 valsts N6dekl;
+zivs N6dekl;
 
 ! Define 3rd declension paradigm
 LEXICON N3dekl
