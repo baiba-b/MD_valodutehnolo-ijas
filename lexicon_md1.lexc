@@ -15,8 +15,23 @@ LEXICON Root
 !Define noun lexicon
 LEXICON Nouns
   meiten N5dekl ;
-  med N3dekl ;
+  klep N3dekl ;
+  tirg N3dekl ;
+  vid N3dekl ;
   nakt N6dekl ;
+
+! Define 3rd declension paradigm
+LEXICON N3dekl
++N+Sg+Nom:^us  # ;
++N+Sg+Gen:^us # ;
++N+Sg+Dat:^um # ;
++N+Sg+Acc:^u # ;
++N+Sg+Loc:^ū # ;
++N+Pl+Nom:^i  # ;
++N+Pl+Gen:^u  # ;
++N+Pl+Dat:^iem # ;
++N+Pl+Acc:^us # ;
++N+Pl+Loc:^os # ;
 
 ! Define 5th declension paradigm
 LEXICON N5dekl
@@ -44,16 +59,5 @@ LEXICON N6dekl
 +N+Pl+Acc:^is # ;
 +N+Pl+Loc:^īs # ;
 
-! Define 3rd declension paradigm
-LEXICON N3dekl
-+N+Sg+Nom:^us  # ;
-+N+Sg+Gen:^us # ;
-+N+Sg+Dat:^um # ;
-+N+Sg+Acc:^u # ;
-+N+Sg+Loc:^ū # ;
-+N+Pl+Nom:^i  # ;
-+N+Pl+Gen:^u  # ;
-+N+Pl+Dat:^iem # ;
-+N+Pl+Acc:^us # ;
-+N+Pl+Loc:^os # ;
+
 
