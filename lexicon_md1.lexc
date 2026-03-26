@@ -19,6 +19,7 @@ LEXICON Nouns
   tirg N3dekl ;
   vid N3dekl ;
   nakt N6dekl ;
+  sirds N6dekl ;
 
 ! Define 3rd declension paradigm
 LEXICON N3dekl
