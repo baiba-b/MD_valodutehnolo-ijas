@@ -8,11 +8,10 @@ Multichar_Symbols
         +Acc
         +Loc
 
-!Define root lexicon
-LEXICON Root
-  Noun ; ! No input, no output
 
-!Define noun lexicon
+LEXICON Root
+  Noun ; 
+
 LEXICON Noun
 tirg N3dekl;
 vid N3dekl;
