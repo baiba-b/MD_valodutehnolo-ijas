@@ -14,10 +14,13 @@ LEXICON Root
 
 !Define noun lexicon
 LEXICON Nouns
+!5. deklinācija:
 meiten N5dekl ;
-kurp N3dekl ;
+kurp N5dekl ;
+!3. deklinācija:
 tirg N3dekl ;
 vid N3dekl ;
+!6. deklinācija:
 nakt N6dekl ;
 valsts N6dekl ;
 
