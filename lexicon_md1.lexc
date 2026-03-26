@@ -17,6 +17,7 @@ tirg N3dekl;
 vid N3dekl;
 bend N5dekl;
 meiten N5dekl;
+balamut N5dekl;
 kurp N5dekl;
 nakt N6dekl;
 valsts N6dekl;
@@ -38,7 +39,7 @@ LEXICON N3dekl
 LEXICON N5dekl
 +N+Sg+Nom:^e # ;
 +N+Sg+Gen:^es # ;
-+N+Sg+Dat:^ei # ;
++N+Sg+Dat:M^ei # ;
 +N+Sg+Acc:^i # ;
 +N+Sg+Loc:^ē # ;
 +N+Pl+Nom:^es # ;
@@ -50,7 +51,7 @@ LEXICON N5dekl
 ! Define 6th declension paradigm
 LEXICON N6dekl
 +N+Sg+Nom:^s # ;
-+N+Sg+Gen:^s # ;
++N+Sg+Gen:M^s # ;
 +N+Sg+Dat:^ij # ;
 +N+Sg+Acc:^i # ;
 +N+Sg+Loc:^ī # ;
