@@ -41,7 +41,7 @@ LEXICON N5dekl
 +N+Sg+Acc:^i # ;
 +N+Sg+Loc:^ē # ;
 +N+Pl+Nom:^es # ;
-+N+Pl+Gen:^u # ;
++N+Pl+Gen:^Mu # ;
 +N+Pl+Dat:^ēm # ;
 +N+Pl+Acc:^es # ;
 +N+Pl+Loc:^ēs # ;
