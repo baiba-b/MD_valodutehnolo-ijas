@@ -22,13 +22,13 @@ LEXICON Nouns
 
 ! Define 3rd declension paradigm
 LEXICON N3dekl
-+N+Sg+Nom:^us  # ;
++N+Sg+Nom:^us # ;
 +N+Sg+Gen:^us # ;
 +N+Sg+Dat:^um # ;
 +N+Sg+Acc:^u # ;
 +N+Sg+Loc:^ū # ;
-+N+Pl+Nom:^i  # ;
-+N+Pl+Gen:^u  # ;
++N+Pl+Nom:^i # ;
++N+Pl+Gen:^u # ;
 +N+Pl+Dat:^iem # ;
 +N+Pl+Acc:^us # ;
 +N+Pl+Loc:^os # ;
