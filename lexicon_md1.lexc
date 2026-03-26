@@ -10,9 +10,9 @@ Multichar_Symbols
 
 
 LEXICON Root
-  Noun ; 
+  Nouns ; 
 
-LEXICON Noun
+LEXICON Nouns
 tirg N3dekl;
 vid N3dekl;
 meiten N5dekl;
