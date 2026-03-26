@@ -1,0 +1,57 @@
+Multichar_Symbols
+        +N      ! Noun tag
+        +Sg     ! Singular
+        +Pl     ! Plural
+        +Nom
+        +Gen
+        +Dat
+        +Acc
+        +Loc
+
+!Define root lexicon
+LEXICON Root
+  Nouns ; ! No input, no output
+
+!Define noun lexicon
+LEXICON Nouns
+  meiten N5dekl ;
+
+! Define 5th declension paradigm
+LEXICON N5dekl
++N+Sg+Nom:^e  # ;
++N+Sg+Gen:^es # ;
++N+Sg+Dat:^ei # ;
++N+Sg+Acc:^i # ;
++N+Sg+Loc:^ē # ;
++N+Pl+Nom:^es  # ;
++N+Pl+Gen:^u  # ;
++N+Pl+Dat:^ēm # ;
++N+Pl+Acc:^es # ;
++N+Pl+Loc:^ēs # ;
+
+! Define 6th declension paradigm
+LEXICON N6dekl
++N+Sg+Nom:^s  # ;
++N+Sg+Gen:^s # ;
++N+Sg+Dat:^ij # ;
++N+Sg+Acc:^i # ;
++N+Sg+Loc:^i # ;
++N+Pl+Nom:^is  # ;
++N+Pl+Gen:^u  # ;
++N+Pl+Dat:^īm # ;
++N+Pl+Acc:^is # ;
++N+Pl+Loc:^īs # ;
+
+! Define 3rd declension paradigm
+LEXICON N3dekl
++N+Sg+Nom:^us  # ;
++N+Sg+Gen:^us # ;
++N+Sg+Dat:^um # ;
++N+Sg+Acc:^u # ;
++N+Sg+Loc:^ū # ;
++N+Pl+Nom:^i  # ;
++N+Pl+Gen:^u  # ;
++N+Pl+Dat:^iem # ;
++N+Pl+Acc:^us # ;
++N+Pl+Loc:^os # ;
+
