@@ -41,7 +41,7 @@ LEXICON N3dekl
 LEXICON N5dekl
 +N+Sg+Nom:^e # ;
 +N+Sg+Gen:^es # ;
-+N+Sg+Dat:^Mei  # ;
++N+Sg+Dat:^ei  # ;
 +N+Sg+Acc:^i # ;
 +N+Sg+Loc:^ē # ;
 +N+Pl+Nom:^es # ;
@@ -53,7 +53,7 @@ LEXICON N5dekl
 ! Define 6th declension paradigm
 LEXICON N6dekl
 +N+Sg+Nom:^s # ;
-+N+Sg+Gen:M^s # ;
++N+Sg+Gen:^s # ;
 +N+Sg+Dat:^ij # ;
 +N+Sg+Acc:^i # ;
 +N+Sg+Loc:^ī # ;
